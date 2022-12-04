@@ -1,0 +1,154 @@
+.cardProducto {
+    width: 18rem;
+    margin: 4px;
+    text-align: center;
+}
+
+.ItemDetail {
+    max-width: 450px;
+    margin-top: 20px;
+}
+
+
+.darkMode{
+    background-color: black;
+    color: antiquewhite;
+    
+}
+
+.home {
+    margin-top: 2px;
+}
+
+.distancia {
+    margin: 10px;
+    text-decoration: none;
+}
+
+.distancia:hover{
+    color: rgba(0, 0, 0, 0.753);
+}
+
+
+.luna {
+    margin-left: 96%;
+    margin-top: 10px;
+}
+
+.card {
+    display: inline-flex;
+    width: 300px;
+    margin: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.404);
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.5s;  
+
+}
+
+.tarjeta {
+    
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+
+}
+
+.tarjeta2{
+    box-shadow: 10px 5px 5px 5px  rgba(0, 0, 0, 0.404);
+    width: 750px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin-left: 600px;
+    border-style: groove;
+    border-color: black;
+    margin-top: 60px;
+}
+.tarjeta3{
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.404);
+    margin-left: 20px;
+    margin-bottom: 40px;
+
+}
+
+.textotarj{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.espacio{
+    padding: 5px; 
+    width: 30px;
+    margin-top: 20px;   
+    margin-bottom: 10px;
+    margin: 15px;
+}
+.conta{
+    margin-right: 33px;
+}
+
+.contadorr {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.conta {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.agregar { 
+    margin: 20px;
+    margin-left: 80px;
+
+}
+
+.imagen{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    
+
+}
+
+.carritoVacio{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.iralcarrito{
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.container {
+    margin-top: 70px;
+}
+
+.botonCompra{
+    margin-left: 560px;
+    margin-top: 50px;
+}
+
+.eliminar {
+    margin: 10px;
+}
+
+.letra {
+    font-size: 70px;
+    font-weight: 200;
+    margin-top: 60px;
+}
+
+.dist{
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.cartdist {
+    margin-left: 600px;
+}
